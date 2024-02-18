@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """This module defines a class Student"""
 
 
@@ -27,3 +28,4 @@ class Student:
         """
         for k, v in json.items():
             setattr(self, k, v)
+            
