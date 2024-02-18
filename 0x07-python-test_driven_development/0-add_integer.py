@@ -10,11 +10,11 @@ def add_integer(a, b=98):
     """Return the sum of two integers or floats as integers
 
     Args:
-        a: first argument
-        b: second argument
+        a: First arg
+        b: Second arg
 
     Returns:
-        Sum of the two arguments
+        Sum of the two args
 
     Raises:
         TypeError: If either of the arguments not an integer or a float

@@ -114,3 +114,4 @@ Case NaN 2:
     Traceback (most recent call last):
     	      ...
     ValueError: cannot convert float NaN to integer
+    

@@ -28,3 +28,4 @@ def print_square(size):
         for m in range(size):
             print("#", end="")
         print("")
+        
